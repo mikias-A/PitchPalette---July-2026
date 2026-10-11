@@ -7,4 +7,4 @@ Will add:
 - Color wheel to allow for any color to be chosen.
 - Full control of the brush on the canvas through sliding notes.
 
-To use, open https://editor.p5js.org/ in browser and paste sketch.js' contents into the file.
+To use, open https://editor.p5js.org/ in browser and paste sketch.js' contents into the file, then run.
